@@ -1,0 +1,21 @@
+## Instrucciones
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+For: es un ciclo (bucle) en el que una acción se repite un número determinado de veces, el cual va a depender de las condiciones de entrada y salida que le establezcamos a la variable. 
+ La sintaxis es la siguiente:
+ For (contador; condición; variación del contador) {
+     enunciados a ejecutar
+     }
+  Contador: variable que indica la cantidad de veces que se ejecuta el bucle.
+  Condición: establece el límite para las repeticiones
+  Variación del contador: indica el incremento del contador.
+
+`&&`, `||`, `!`: son operadores lógicos
+&&: operador "Y", conecta dos expresiones, devolviendo True si ambas expresiones son True, y False si una o ambas son False.
+||: operador "O", conecta dos expresiones, devolviendo False si ambas expresiones son False, y True si una o ambas son True.
+!: operador de negación. Anteponiendolo a la expresión, niega el valor lógico real, es decir, si la expresión es True devolverá False, y viceversa.
