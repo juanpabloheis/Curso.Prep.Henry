@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+VARIABLES: la variable está representada por una letra o palabra. La misma se encuentra dentro del desarrollo de una función. Se llama variable porque justamente puede variar el valor
+de la misma y a su vez modificar el resultado de la función.
+
+STRINGS: es una cadena de caracteres de letras y/o números simbolizados entre comillas. No tienen valor numérico.
+
+FUNCIONES (argumentos, 'return'): al querer ejecutar una función, las variables encontradas entre paréntesis tendrán que ser reemplazadas por valores reales llamados "argumentos". 
+Al declarar el "return" hace que el desarrollo del código corte hasta dicho momento y muestre en pantalla lo calculado hasta allí. 
+El resto del código encontrado después del return no se ejecutará.  
+
+DECLARACIONES `if`: es un operador de control de flujo dentro de una función. Es decir, si determinada condición impuesta se verifica, la función sigue por un camino determinado, 
+si no verifica, sigue por otro diferente.
+
+Valores booleanos (`true`, `false`): es un tipo de dato que puede tomar solamente 2 valores, representados por true o false.
