@@ -1,0 +1,25 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objetos: es una colección de datos sobre una misma cosa. Dicha colección se guarda a partir de pares de clave:valor.
+
+Propiedades: Se denomina propiedad a los datos almacenados en un objeto. Las propiedades se identifican de la forma clave:valor, 
+donde clave identifica el nombre de la propiedad y valor es el dato contenido en dicha propiedad. Las claves son unicas en cada objeto, no pueden existir dos iguales, aunque si
+dos o más claves pueden contener el mismo valor.
+
+Método: se denomina a las funciones guardadas dentro de un objeto. 
+
+Bucle `for…in`: dicho bucle nos sirve para recorrer las diferentes propiedades de un objeto y acceder a las claves de las mismas.
+
+Notación de puntos vs notación de corchetes. 
+Son 2 formas diferentes de sintaxis para llamar a los pares "clave:valor" de un objeto:
+- Sintaxis Notación de puntos: objeto.propiedad
+- Sintaxis Notación de corchetes: objeto['propiedad']
